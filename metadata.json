@@ -1,0 +1,8 @@
+{
+  "name": "AI 提示词架构师与预览工具",
+  "description": "一款用于设计、模块化和优化 AI 系统提示词的高级工具，内置预览、数据库持久化及多模型支持（Gemini & 千问）。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
